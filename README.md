@@ -3,7 +3,7 @@
 <h3 align="center">A creative fullstack developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariffebri22&label=Profile%20views&color=0e75b6&style=flat" alt="ariffebri22" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ariffebri22&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **React, Next.js, Node.js**
 
