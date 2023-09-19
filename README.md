@@ -6,7 +6,8 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=ariffebri22&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in) 
+<a href="https://github.com/ariffebri22" target="_blank"><img alt="ariff" width="90" src="https://badges.pufler.dev/visits/ariffebri22/ariffebri22?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-ArifFebriansyah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariffebri/)](https://www.linkedin.com/in/ariffebri/) [![Twitter Badge](https://img.shields.io/badge/-@MrFebriansyah2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mr_Febriansyah2)](https://twitter.com/Mr_Febriansyah2) [![Instagram Badge](https://img.shields.io/badge/-fm.arif-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://instagram.com/fm.arif)](https://instagram.com/fm.arif)
 
