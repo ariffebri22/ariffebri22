@@ -1,7 +1,8 @@
 <img src="https://res.cloudinary.com/dcpi3m2up/image/upload/v1694858754/samples/Tanpa_judul_1000_x_290_piksel_fm5c8l.gif" alt="Mokkapps GitHub README header image">
 
-<h1 align="center">Hello there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-<h3 align="center">I'm creative fullstack developer from Indonesia</h3>
+<h1 align="center">Hello there ! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+</h1>
+<h3 align="center">They call me Arif, <br/> I'm creative fullstack developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <br/>
